@@ -190,5 +190,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - jekyll.thor
+  -  Dockfile
 
 destination: ./build
+
